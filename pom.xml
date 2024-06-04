@@ -14,7 +14,7 @@
 	<name>bl</name>
 	<description>Demo project for secure Spring Boot app</description>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
